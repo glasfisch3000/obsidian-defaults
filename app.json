@@ -1,3 +1,10 @@
 {
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "showInlineTitle": false,
+  "livePreview": false,
+  "strictLineBreaks": true,
+  "showLineNumber": true,
+  "newFileLocation": "current",
+  "attachmentFolderPath": "./",
+  "showUnsupportedFiles": true
 }
