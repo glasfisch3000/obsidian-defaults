@@ -1,4 +1,5 @@
 {
   "translucency": true,
-  "showRibbon": true
+  "showRibbon": true,
+  "textFontFamily": "SF Mono"
 }
